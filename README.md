@@ -1,1 +1,1 @@
-# chme0035_coursework
+# "CHME0035 Advanced Machine Learning" coursework
